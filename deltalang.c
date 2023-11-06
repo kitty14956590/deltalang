@@ -5,6 +5,8 @@
 #include <time.h>
 #include <unistd.h>
 #else
+// already included by gcc but will get compiler warnings if not do this
+// this should be a `.h` file with only the function declarations, but im lazy
 #include "lemonstd.c"
 #endif
 
