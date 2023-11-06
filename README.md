@@ -1,7 +1,7 @@
 # deltalang
-A very bad programming language made by @ZeroSkillCoder, rewritten to work in LemonOS
-Tested on: 
-  Ubuntu 22.04
-  LemonOS 1.24
-  Fedora Workstation 38
+A very bad programming language made by @ZeroSkillCoder, rewritten to work in LemonOS<br>
+Tested on:<br>
+  Ubuntu 22.04<br>
+  LemonOS 1.24<br>
+  Fedora Workstation 38<br>
 This is the first peice of LemonOS code to be made public!!
